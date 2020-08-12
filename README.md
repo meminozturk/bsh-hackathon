@@ -12,5 +12,5 @@ Weigthed Failure Rate – WFR: An indicator of possible claims from the field an
 Technical Call Rate – TCR:  The key performance indicators Technical Call Rate (TCR),describes the ratio of failures of appliances produced in a defined manufacturing period and the number of appliances produced within this period.
 
 
-![Winner Team!](winners.png)
+![Winner Team!](winners.JPG)
 
