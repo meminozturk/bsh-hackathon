@@ -42,4 +42,5 @@ Our final model could explain the variation by 91.61%. Our value proposition and
 ![Winner Team!](winners.JPG)
 
 Thanks,
+
 Emin
