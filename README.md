@@ -1,2 +1,1 @@
-# bsh-hackathon
-Winning Solution to B/S/H Analytics for Production Excellence Hackathon 2017
+# Winning Solution to B/S/H Analytics for Production Excellence Hackathon 2017
